@@ -2,6 +2,8 @@
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
+## Url[Live Site] (https://prefresh.github.io/STATS-PREVIEW-CARD-COMPONENT-/)g
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
